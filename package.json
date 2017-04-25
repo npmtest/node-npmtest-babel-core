@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [babel-core (v6.24.1)](https://babeljs.io/) [![npm package](https://img.shields.io/npm/v/npmtest-babel-core.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-core) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-core.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-core)",
+    "description": "#### basic test coverage for  [babel-core (v6.24.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-core.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-core) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-core.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-core)",
     "devDependencies": {
         "babel-core": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

@@ -1,4 +1,7 @@
-# test coverage for  [babel-core (v6.24.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-core.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-core) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-core.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-core)
+# npmtest-babel-core
+
+#### basic test coverage for  [babel-core (v6.24.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-core.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-core) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-core.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-core)
+
 #### Babel compiler core.
 
 [![NPM](https://nodei.co/npm/babel-core.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babel-core)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-babel-core/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-babel-core/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-babel-core/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-babel-core/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babel-core/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babel-core/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-babel-core/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-babel-core/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babel-core/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babel-core/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-babel-core/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-babel-core/build/coverage.html/index.html)
 
@@ -114,7 +117,8 @@
         "bench": "make bench",
         "test": "make test"
     },
-    "version": "6.24.1"
+    "version": "6.24.1",
+    "bin": {}
 }
 ```
 
